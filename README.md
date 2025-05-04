@@ -6,6 +6,11 @@ languages: javascript, html, css
 tags: dom, timers, events, beginner, kids
 ---
 
+
+![Switch 2 Countdown Screenshot](img/screenshot.png)
+
+
+
 # 🚀 Switch 2 Countdown – Coding Challenge
 
 Nintendo’s **Switch 2** drops at **12:01 AM → June 5 2025**.  
